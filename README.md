@@ -1,29 +1,49 @@
-# README #
+# Magento 2 Language el_GR
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is a Greek language pack for Magento 2 shopping cart.
 
-### What is this repository for? ###
+Beta version.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Installation
 
-### How do I get set up? ###
+Use composer command line from your magento instance root folder.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+````
+composer require gladd/language-el_gr
+````
 
-### Contribution guidelines ###
+The translation of Magento 2 into Greek has been fragmented, translating everything we encounter during our daily use and browsing the application.
 
-* Writing tests
-* Code review
-* Other guidelines
+We chose this translation method because it helps us to better translate a word or sentence when we see exactly where it is used.
 
-### Who do I talk to? ###
+### Modules with completed translation
+- Magento_AdminNotification
+- Magento_AdvancedPricingImportExport
+- Magento_Authorization
 
-* Repo owner or admin
-* Other community or team contact
+# Ελλάς
+
+Ελληνικό πακέτο γλώσσας για το Magento 2
+
+Δοκιμαστική έκδοση.
+
+## Εγκατάσταση
+
+Χρησιμοποιήστε τον composer στη γραμμή εντολών, εκτελώντας τις παρακάτω εντολές ριζικό φάκελο της εγκατάστασης του magento.
+````
+composer require gladd/language-el_gr
+````
+
+## Κατάσταση μετάφρασης
+
+Η μετάφραση του Magento 2 στα Ελληνικά έχει ξεκινήσει αποσπασματικά, μεταφράζοντας οτιδήποτε συναντάμε κατά την καθημερινή μας χρήση και περιήγηση στην εφαρμογή.
+
+Επιλέξαμε αυτή την μέθοδο μετάφρασης διότι μας βοηθά να αποδόσουμε καλύτερα την μετάφραση μία λέξης ή πρότασης όταν βλέπουμε που ακριβώς χρησιμοποιείται.
+
+Το μεγαλύτερο μέρος των σελίδων που χρησιμοποιούν συχνά οι πελάτες έχει μεταφραστεί.
+
+### Modules με ολοκληρωμένη μετάφραση
+
+- Magento_AdminNotification
+- Magento_AdvancedPricingImportExport
+- Magento_Authorization
