@@ -1335,7 +1335,7 @@ Disabled,Απενεργοποιημένη,module,Magento_CheckoutAgreements
 Text,Text,module,Magento_CheckoutAgreements
 HTML,HTML,module,Magento_CheckoutAgreements
 Applied,Applied,module,Magento_CheckoutAgreements
-"Store View","Προβολή καταστήματος,module,Magento_CheckoutAgreements
+"Store View","Προβολή καταστήματος",module,Magento_CheckoutAgreements
 "Checkbox Text","Checkbox Text",module,Magento_CheckoutAgreements
 Content,Content,module,Magento_CheckoutAgreements
 "Content Height (css)","Content Height (css)",module,Magento_CheckoutAgreements
@@ -3013,7 +3013,7 @@ Database,Database,module,Magento_MediaStorage
 "Wrong file info format","Wrong file info format",module,Magento_MediaStorage
 "Path ""%value%"" is protected and cannot be used.","Path ""%value%"" is protected and cannot be used.",module,Magento_MediaStorage
 "Path ""%value%"" is not available and cannot be used.","Path ""%value%"" is not available and cannot be used.",module,Magento_MediaStorage
-"Path ""%value%"" may not include parent directory traversal (""../"", ""..\").","Path ""%value%"" may not include parent directory traversal (""../"", ""..\").",module,Magento_MediaStorage
+"Path ""%value%"" may not include parent directory traversal (""../"", ""..\"").","Path ""%value%"" may not include parent directory traversal (""../"", ""..\"").",module,Magento_MediaStorage
 "Please set available and/or protected paths list(s) before validation.","Please set available and/or protected paths list(s) before validation.",module,Magento_MediaStorage
 "File with an extension ""%value%"" is protected and cannot be uploaded","File with an extension ""%value%"" is protected and cannot be uploaded",module,Magento_MediaStorage
 "Unable to create directory: %1","Unable to create directory: %1",module,Magento_MediaStorage
@@ -6152,7 +6152,7 @@ Edit,Επεξεργασία,module,Magento_Wishlist
 "This Wish List has no Items","This Wish List has no Items",module,Magento_Wishlist
 "%1 has been added to your Wish List.","Το είδος %1 έχει προστεθεί στην Wish List σας.",module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to continue shopping.","<a href=""%1"">Πατήστε εδώ</a> για να συνεχίσετε τις αγορές σας.",module,Magento_Wishlist
-"See Details","Δείτε λεπτομέρειες,module,Magento_Wishlist
+"See Details","Δείτε λεπτομέρειες",module,Magento_Wishlist
 "Options Details","Options Details",module,Magento_Wishlist
 "RSS link to %1's wishlist","RSS link to %1's wishlist",module,Magento_Wishlist
 "RSS Feed","RSS Feed",module,Magento_Wishlist
