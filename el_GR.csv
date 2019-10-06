@@ -213,7 +213,7 @@ Search,Αναζήτηση,module,Magento_Backend
 Any,Οτιδήποτε,module,Magento_Backend
 "All Countries","Όλες οι χώρες",module,Magento_Backend
 From,Από,module,Magento_Backend
-To,Σε,module,Magento_Backend
+To,Έως,module,Magento_Backend
 "Date selector","Επιλογή ημερομηνίας",module,Magento_Backend
 "[ deleted ]","[ διαγράφηκε ]",module,Magento_Backend
 "Select All","Επιλογή όλων",module,Magento_Backend
@@ -255,7 +255,7 @@ Error,Error,module,Magento_Backend
 "You need more permissions to do this.","Χρειάζεστε περισσότερα δικαιώματα για να το κάνετε αυτό.",module,Magento_Backend
 "No search modules were registered","No search modules were registered",module,Magento_Backend
 "Please make sure that all global admin search modules are installed and activated.","Please make sure that all global admin search modules are installed and activated.",module,Magento_Backend
-"You saved the account.","You saved the account.",module,Magento_Backend
+"You saved the account.","Αποθηκεύσατε το λογαριασμό.",module,Magento_Backend
 "An error occurred while saving account.","An error occurred while saving account.",module,Magento_Backend
 "You deleted the design change.","You deleted the design change.",module,Magento_Backend
 "You can't delete the design change.","You can't delete the design change.",module,Magento_Backend
@@ -407,8 +407,8 @@ Database,Database,module,Magento_Backup
 "System (excluding Media)","System (excluding Media)",module,Magento_Backup
 "You created the system backup.","You created the system backup.",module,Magento_Backup
 "You created the system backup (excluding media).","You created the system backup (excluding media).",module,Magento_Backup
-"You created the database and media backup.","You created the database and media backup.",module,Magento_Backup
-"You created the database backup.","You created the database backup.",module,Magento_Backup
+"You created the database and media backup.","Δημιουργήσατε το αντίγραφο ασφαλείας της βάση δεδομένων και των μέσων.",module,Magento_Backup
+"You created the database backup.","Δημιουργήσατε το αντίγραφο ασφαλείας της βάσης δεδομένων.",module,Magento_Backup
 "Please correct the order of creation for a new backup.","Please correct the order of creation for a new backup.",module,Magento_Backup
 "The backup file does not exist.","The backup file does not exist.",module,Magento_Backup
 "The backup file path was not specified.","The backup file path was not specified.",module,Magento_Backup
@@ -460,95 +460,95 @@ Authorize,Authorize,module,Magento_Braintree
 "Please, enter valid Expiration Date","Please, enter valid Expiration Date",module,Magento_Braintree
 "Card Verification Number","Card Verification Number",module,Magento_Braintree
 "Please, enter valid Card Verification Number","Please, enter valid Card Verification Number",module,Magento_Braintree
-ending,ending,module,Magento_Braintree
-expires,expires,module,Magento_Braintree
-"PayPal Account","PayPal Account",module,Magento_Braintree
-"PayPal Logo","PayPal Logo",module,Magento_Braintree
+ending,τελειώνει,module,Magento_Braintree
+expires,λήγει,module,Magento_Braintree
+"PayPal Account","Λογαριασμός PayPal",module,Magento_Braintree
+"PayPal Logo","Λογότυπο PayPal",module,Magento_Braintree
 Actions,Ενέργειες,module,Magento_Braintree
 Delete,Διαγραφή,module,Magento_Braintree
-"Percent Discount","Percent Discount",module,Magento_Bundle
-"-- Select --","-- Select --",module,Magento_Bundle
-Dynamic,Dynamic,module,Magento_Bundle
-Fixed,Fixed,module,Magento_Bundle
-"Create New Option","Create New Option",module,Magento_Bundle
-"Bundle Items","Bundle Items",module,Magento_Bundle
-"Add Products to Option","Add Products to Option",module,Magento_Bundle
+"Percent Discount","Ποσοστό έκπτωσης",module,Magento_Bundle
+"-- Select --","-- Επιλέξτε --",module,Magento_Bundle
+Dynamic,Δυναμικά,module,Magento_Bundle
+Fixed,Σταθερό,module,Magento_Bundle
+"Create New Option","Δημιουργία νέας επιλογής",module,Magento_Bundle
+"Bundle Items","Είδη πακέτου",module,Magento_Bundle
+"Add Products to Option","Προσθήκη προϊόντων στην επιλογή",module,Magento_Bundle
 Close,Κλείσιμο,module,Magento_Bundle
-"Delete Option","Delete Option",module,Magento_Bundle
-"What are you looking for?","What are you looking for?",module,Magento_Bundle
+"Delete Option","Διαγραφή επιλογής",module,Magento_Bundle
+"What are you looking for?","Τι ψάχνετε;",module,Magento_Bundle
 ID,ID,module,Magento_Bundle
 Product,Προϊόν,module,Magento_Bundle
 SKU,Κωδικός,module,Magento_Bundle
 Price,Τιμή,module,Magento_Bundle
 Delete,Διαγραφή,module,Magento_Bundle
-"Use Default Value","Use Default Value",module,Magento_Bundle
-"There is no defined renderer for ""%1"" option type.","There is no defined renderer for ""%1"" option type.",module,Magento_Bundle
-"Only implemented for bundle product","Only implemented for bundle product",module,Magento_Bundle
-"Product with specified sku: ""%1"" is not a bundle product","Product with specified sku: ""%1"" is not a bundle product",module,Magento_Bundle
-"Bundle product could not contain another composite product","Bundle product could not contain another composite product",module,Magento_Bundle
-"Id field of product link is required","Id field of product link is required",module,Magento_Bundle
-"Can not find product link with id ""%1""","Can not find product link with id ""%1""",module,Magento_Bundle
-"Could not save child: ""%1""","Could not save child: ""%1""",module,Magento_Bundle
-"Product with specified sku: ""%1"" does not contain option: ""%2""","Product with specified sku: ""%1"" does not contain option: ""%2""",module,Magento_Bundle
-"Child with specified sku: ""%1"" already assigned to product: ""%2""","Child with specified sku: ""%1"" already assigned to product: ""%2""",module,Magento_Bundle
-"Product with specified sku: %1 is not a bundle product","Product with specified sku: %1 is not a bundle product",module,Magento_Bundle
-"Requested bundle option product doesn't exist","Requested bundle option product doesn't exist",module,Magento_Bundle
-"%fieldName is a required field.","%fieldName is a required field.",module,Magento_Bundle
-"Requested option doesn't exist","Requested option doesn't exist",module,Magento_Bundle
-"Cannot delete option with id %1","Cannot delete option with id %1",module,Magento_Bundle
-"Could not save option","Could not save option",module,Magento_Bundle
-"Price Range","Price Range",module,Magento_Bundle
-"As Low as","As Low as",module,Magento_Bundle
-Together,Together,module,Magento_Bundle
-Separately,Separately,module,Magento_Bundle
-"Please specify product option(s).","Please specify product option(s).",module,Magento_Bundle
-"The options you selected are not available.","The options you selected are not available.",module,Magento_Bundle
-"The required options you selected are not available.","The required options you selected are not available.",module,Magento_Bundle
-"Please select all required options.","Please select all required options.",module,Magento_Bundle
-"We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Magento_Bundle
+"Use Default Value","Χρησιμοποιήστε την προεπιλεγμένη τιμή",module,Magento_Bundle
+"There is no defined renderer for ""%1"" option type.","Δεν υπάρχει ορισμός απόδοσης για τον τύπο επιλογής ""%1"".",module,Magento_Bundle
+"Only implemented for bundle product","Εφαρμόζεται μόνο για προϊόν πακέτου",module,Magento_Bundle
+"Product with specified sku: ""%1"" is not a bundle product","Το προϊόν με τον κωδικό: ""%1"" δεν είναι προϊόν πακέτου",module,Magento_Bundle
+"Bundle product could not contain another composite product","Το πακέτο προϊόντων δεν μπορεί νσ περιέχει άλλο σύνθετο προϊόν",module,Magento_Bundle
+"Id field of product link is required","Το πεδίο Id για το link του προϊόντος απαιτείται",module,Magento_Bundle
+"Can not find product link with id ""%1""","Δεν είναι δυνατή η εύρεση του link του προϊόντος με id ""%1""",module,Magento_Bundle
+"Could not save child: ""%1""","Δεν ήταν δυνατή η αποθήκευση του υποπροϊόντος: ""%1""",module,Magento_Bundle
+"Product with specified sku: ""%1"" does not contain option: ""%2""","Το προϊόν με τον κωδικό: ""%1"" δεν περιέχει την επιλογή: ""%2""",module,Magento_Bundle
+"Child with specified sku: ""%1"" already assigned to product: ""%2""","Το υποπροϊόν με τον κωδικό: ""%1"" έχει ήδη αντιστοιχιστεί στο προϊόν: ""%2""",module,Magento_Bundle
+"Product with specified sku: %1 is not a bundle product","Το προϊόν με τον κωδικό: %1 δεν είναι προϊόν πακέτου",module,Magento_Bundle
+"Requested bundle option product doesn't exist","Δεν υπάρχουν οι απαιτούμενες επιλογές στο προϊόν πακέτου που ζητήθηκε",module,Magento_Bundle
+"%fieldName is a required field.","Το πεδιο %fieldName είναι υποχρεωτικό.",module,Magento_Bundle
+"Requested option doesn't exist","Η ζητούμενη επιλογή δεν υπάρχει",module,Magento_Bundle
+"Cannot delete option with id %1","Δεν είναι δυνατή η διαγραφή της επιλογής με id %1",module,Magento_Bundle
+"Could not save option","Δεν ήταν δυνατή η αποθήκευση της επιλογής",module,Magento_Bundle
+"Price Range","Εύρος τιμής",module,Magento_Bundle
+"As Low as","Αποκτήστε το με",module,Magento_Bundle
+Together,Μαζί,module,Magento_Bundle
+Separately,Ξεχωριστά,module,Magento_Bundle
+"Please specify product option(s).","Προσδιορίστε τις επιλογές των προϊόντων.",module,Magento_Bundle
+"The options you selected are not available.","Οι επιλογές που έχετε ορίσει δεν είναι διαθέσιμες.",module,Magento_Bundle
+"The required options you selected are not available.","Οι απαιτούμενες επιλογές που έχετε ορίσει δεν είναι διαθέσιμες.",module,Magento_Bundle
+"Please select all required options.","Παρακαλούμε ορίστε όλες τις απαιτούμενες επιλογές.",module,Magento_Bundle
+"We can't add this item to your shopping cart right now.","Δεν μπορούμε να προσθέσουμε αυτό το είδος στο καλάθι αγορών σας αυτή τη στιγμή.",module,Magento_Bundle
 N/A,N/A,module,Magento_Bundle
-Percent,Percent,module,Magento_Bundle
-"We can't save custom-defined options for bundles with dynamic pricing.","We can't save custom-defined options for bundles with dynamic pricing.",module,Magento_Bundle
+Percent,Ποσοστό,module,Magento_Bundle
+"We can't save custom-defined options for bundles with dynamic pricing.","Δεν μπορούμε να αποθηκεύσουμε προσαρμοσμένες επιλογές σε πακέτα με δυναμική τιμή.",module,Magento_Bundle
 Cancel,Ακύρωση,module,Magento_Bundle
-"Add Selected Products","Add Selected Products",module,Magento_Bundle
-"Add Option","Add Option",module,Magento_Bundle
-"New Option","New Option",module,Magento_Bundle
-"Option Title","Option Title",module,Magento_Bundle
-"Default Title","Default Title",module,Magento_Bundle
-"Store View Title","Store View Title",module,Magento_Bundle
-"Input Type","Input Type",module,Magento_Bundle
-Drop-down,Drop-down,module,Magento_Bundle
-"Radio Buttons","Radio Buttons",module,Magento_Bundle
-Checkbox,Checkbox,module,Magento_Bundle
-"Multiple Select","Multiple Select",module,Magento_Bundle
-Required,Required,module,Magento_Bundle
-"Is Default","Is Default",module,Magento_Bundle
+"Add Selected Products","Προσθήκη επιλεγμένων προϊόντων",module,Magento_Bundle
+"Add Option","Προσθήκη επιλογής",module,Magento_Bundle
+"New Option","Νέα επιλογή",module,Magento_Bundle
+"Option Title","Τίτλος επιλογής",module,Magento_Bundle
+"Default Title","Προεπιλεγμένος τίτλος",module,Magento_Bundle
+"Store View Title","Τίτλος προβολής στο κατάστημα",module,Magento_Bundle
+"Input Type","Τύπος εισαγωγής",module,Magento_Bundle
+Drop-down,Λίστα επιλογής,module,Magento_Bundle
+"Radio Buttons","Κουμπιά επιλογής",module,Magento_Bundle
+Checkbox,Πλαίσιο ελέγχου,module,Magento_Bundle
+"Multiple Select","Πολλαπλή επιλογή",module,Magento_Bundle
+Required,Απαιτείται,module,Magento_Bundle
+"Is Default","Είναι προεπιλογή",module,Magento_Bundle
 Name,Όνομα,module,Magento_Bundle
-"Default Quantity","Default Quantity",module,Magento_Bundle
-"User Defined","User Defined",module,Magento_Bundle
-"Price Type","Price Type",module,Magento_Bundle
+"Default Quantity","Προεπιλεγμένη ποσότητα",module,Magento_Bundle
+"User Defined","Ορισμένο από τον χρήστη",module,Magento_Bundle
+"Price Type","Τύπος τιμής",module,Magento_Bundle
 None,Κανένα,module,Magento_Bundle
-Quantity:,Quantity:,module,Magento_Bundle
-"Choose a selection...","Choose a selection...",module,Magento_Bundle
-"Ship Bundle Items","Ship Bundle Items",module,Magento_Bundle
+Quantity:,Ποσότητα:,module,Magento_Bundle
+"Choose a selection...","Παρακαλώ επιλέξτε...",module,Magento_Bundle
+"Ship Bundle Items","Αποστολή προϊόντων πακέτου",module,Magento_Bundle
 Position,Θέση,module,Magento_Bundle
-"There are no products in this option.","There are no products in this option.",module,Magento_Bundle
-Default,Default,module,Magento_Bundle
-Ordered,Ordered,module,Magento_Bundle
-Invoiced,Invoiced,module,Magento_Bundle
-Shipped,Shipped,module,Magento_Bundle
-Refunded,Refunded,module,Magento_Bundle
+"There are no products in this option.","Δεν υπάρχουν προϊόντα σε αυτήν την επιλογή.",module,Magento_Bundle
+Default,Προκαθορισμένο,module,Magento_Bundle
+Ordered,Σε παραγγελία,module,Magento_Bundle
+Invoiced,Τιμολογημένα,module,Magento_Bundle
+Shipped,Απεσταλμένα,module,Magento_Bundle
+Refunded,Έχει επιστραφεί,module,Magento_Bundle
 Canceled,Ακυρώθηκε,module,Magento_Bundle
 "As low as","Αποκτήστε το με",module,Magento_Bundle
 "Regular Price","Κανονική Τιμή",module,Magento_Bundle
 From,Από,module,Magento_Bundle
-To,Σε,module,Magento_Bundle
-"Buy %1 with %2 discount each","Buy %1 with %2 discount each",module,Magento_Bundle
+To,Έως,module,Magento_Bundle
+"Buy %1 with %2 discount each","Αγοράστε %1 με %2 έκπτωση έκαστο",module,Magento_Bundle
 "Go back to product details","Επιστροφή στις λεπτομέριες του προϊόντος",module,Magento_Bundle
 "Customize and Add to Cart","Επεξεργασία και Προσθήκη στο καλάθι",module,Magento_Bundle
 "* Required Fields","* Απαιτούμενα πεδία",module,Magento_Bundle
 "Your Customization","Η προσαρμογή σας",module,Magento_Bundle
-Availability,Availability,module,Magento_Bundle
+Availability,Διαθεσιμότητα,module,Magento_Bundle
 "In stock","Διαθέσιμο",module,Magento_Bundle
 "Out of stock","Εκτός αποθέματος",module,Magento_Bundle
 Summary,Σύνοψη,module,Magento_Bundle
@@ -557,16 +557,16 @@ Availability:,Διαθεσιμότητα:,module,Magento_Bundle
 Quantity,Ποσότητα,module,Magento_Bundle
 "Customize %1","Προσαρμογή %1",module,Magento_Bundle
 "No options of this product are available.","Δεν υπάρχουν διαθέσιμες επιλογές αυτού του προϊόντος.",module,Magento_Bundle
-"Gift Message","Μήνυμα δώρων",module,Magento_Bundle
+"Gift Message","Μήνυμα δώρου",module,Magento_Bundle
 From:,Από:,module,Magento_Bundle
-To:,Έως:,module,Magento_Bundle
+To:,Σε:,module,Magento_Bundle
 Message:,Μήνυμα:,module,Magento_Bundle
 "Product Name","Ονομασία Προϊόντος",module,Magento_Bundle
 Subtotal,Υποσύνολο,module,Magento_Bundle
 "Discount Amount","Ποσό έκπτωσης",module,Magento_Bundle
 "Row Total","Σύνολο γραμμής",module,Magento_Bundle
-"Qty Invoiced","Qty Invoiced",module,Magento_Bundle
-"Qty Shipped","Qty Shipped",module,Magento_Bundle
+"Qty Invoiced","Ποσ. τιμολογημένων",module,Magento_Bundle
+"Qty Shipped","Ποσ. απεσταλμένων",module,Magento_Bundle
 Always,Πάντα,module,Magento_Captcha
 "After number of attempts to login","After number of attempts to login",module,Magento_Captcha
 "Provided form does not exist","Provided form does not exist",module,Magento_Captcha
@@ -961,7 +961,7 @@ Products,Προϊόντα,module,Magento_Catalog
 "A total of %1 record(s) have been updated.","A total of %1 record(s) have been updated.",module,Magento_Catalog
 "Something went wrong while updating the product(s) status.","Something went wrong while updating the product(s) status.",module,Magento_Catalog
 "Unable to save product","Unable to save product",module,Magento_Catalog
-"You saved the product.","You saved the product.",module,Magento_Catalog
+"You saved the product.","Αποθηκεύσατε το προϊόν.",module,Magento_Catalog
 "SKU for product %1 has been changed to %2.","SKU for product %1 has been changed to %2.",module,Magento_Catalog
 "The image cannot be removed as it has been assigned to the other image role","The image cannot be removed as it has been assigned to the other image role",module,Magento_Catalog
 "New Attribute Set","New Attribute Set",module,Magento_Catalog
@@ -1016,7 +1016,7 @@ frontend_label,frontend_label,module,Magento_Catalog
 Manual,Manual,module,Magento_Catalog
 Fixed,Fixed,module,Magento_Catalog
 Percent,Percent,module,Magento_Catalog
-"-- Please select --","-- Please select --",module,Magento_Catalog
+"-- Please select --","-- Παρακαλώ επιλέξτε --",module,Magento_Catalog
 "Product Thumbnail Itself","Product Thumbnail Itself",module,Magento_Catalog
 "Parent Product Thumbnail","Parent Product Thumbnail",module,Magento_Catalog
 "12h AM/PM","12h AM/PM",module,Magento_Catalog
@@ -1158,7 +1158,7 @@ Select...,Επιλέξτε...,module,Magento_Catalog
 "Tier Price","Tier Price",module,Magento_Catalog
 "Customer Group","Ομάδα Πελατών",module,Magento_Catalog
 "Special Price From","Special Price From",module,Magento_Catalog
-To,Σε,module,Magento_Catalog
+To,Έως,module,Magento_Catalog
 Done,Done,module,Magento_Catalog
 "Add Selected","Add Selected",module,Magento_Catalog
 "Select Attribute","Select Attribute",module,Magento_Catalog
@@ -1337,7 +1337,7 @@ HTML,HTML,module,Magento_CheckoutAgreements
 Applied,Applied,module,Magento_CheckoutAgreements
 "Store View","Προβολή καταστήματος",module,Magento_CheckoutAgreements
 "Checkbox Text","Checkbox Text",module,Magento_CheckoutAgreements
-Content,Content,module,Magento_CheckoutAgreements
+Content,Περιεχόμενο,module,Magento_CheckoutAgreements
 "Content Height (css)","Content Height (css)",module,Magento_CheckoutAgreements
 "Content Height","Content Height",module,Magento_CheckoutAgreements
 ID,ID,module,Magento_CheckoutAgreements
@@ -1376,8 +1376,8 @@ State/Province,Πολιτεία/Επαρχία,module,Magento_Checkout
 "Out of stock","Εκτός αποθέματος",module,Magento_Checkout
 "We can't find the quote item.","We can't find the quote item.",module,Magento_Checkout
 "We cannot configure the product.","We cannot configure the product.",module,Magento_Checkout
-"You used coupon code ""%1"".","You used coupon code ""%1"".",module,Magento_Checkout
-"The coupon code ""%1"" is not valid.","The coupon code ""%1"" is not valid.",module,Magento_Checkout
+"You used coupon code ""%1"".","Χρησιμοποιήσατε τον κωδικό κουπονιού ""%1"".",module,Magento_Checkout
+"The coupon code ""%1"" is not valid.","Ο κωδικός κουπονιού ""%1"" δεν είναι έγκυρος.",module,Magento_Checkout
 "You canceled the coupon code.","You canceled the coupon code.",module,Magento_Checkout
 "We cannot apply the coupon code.","We cannot apply the coupon code.",module,Magento_Checkout
 "We can't remove the item.","We can't remove the item.",module,Magento_Checkout
@@ -1501,7 +1501,7 @@ CMS,CMS,module,Magento_Cms
 Blocks,Blocks,module,Magento_Cms
 "Please correct the data sent.","Please correct the data sent.",module,Magento_Cms
 "A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_Cms
-"You saved the block.","You saved the block.",module,Magento_Cms
+"You saved the block.","Αποθηκεύσατε το μπλοκ.",module,Magento_Cms
 "Something went wrong while saving the block.","Something went wrong while saving the block.",module,Magento_Cms
 "The page has been deleted.","The page has been deleted.",module,Magento_Cms
 "We can't find a page to delete.","We can't find a page to delete.",module,Magento_Cms
@@ -1770,7 +1770,7 @@ Submit,Υποβολή,module,Magento_Contact
 "Invalid domain name: %1","Invalid domain name: %1",module,Magento_Cookie
 "Invalid cookie lifetime: %1","Invalid cookie lifetime: %1",module,Magento_Cookie
 "Invalid cookie path","Invalid cookie path",module,Magento_Cookie
-"We use cookies to make your experience better.","We use cookies to make your experience better.",module,Magento_Cookie
+"We use cookies to make your experience better.","Χρησιμοποιούμε τα cookies για να κάνουμε την εμπειρία σας καλύτερη.","We use cookies to make your experience better.","Χρησιμοποιούμε τα cookies για να κάνουμε την εμπειρία σας καλύτερη.",module,Magento_Cookie
 "To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.",module,Magento_Cookie
 "<a href=""%1"">Learn more</a>.","<a href=""%1"">Μάθετε περισσότερα</a>.",module,Magento_Cookie
 "Allow Cookies","Allow Cookies",module,Magento_Cookie
@@ -2740,7 +2740,7 @@ Export,Εξαγωγή,module,Magento_ImportExport
 "Export File Format","Export File Format",module,Magento_ImportExport
 "Fields Enclosure","Fields Enclosure",module,Magento_ImportExport
 From,Από,module,Magento_ImportExport
-To,Σε,module,Magento_ImportExport
+To,Έως,module,Magento_ImportExport
 "We can't filter an attribute with no attribute options.","We can't filter an attribute with no attribute options.",module,Magento_ImportExport
 Exclude,Εξαίρεση,module,Magento_ImportExport
 "Attribute Label","Attribute Label",module,Magento_ImportExport
@@ -3185,15 +3185,15 @@ Subscribers,Συνδρομητές,module,Magento_Newsletter
 "Something went wrong while saving your subscription.","Something went wrong while saving your subscription.",module,Magento_Newsletter
 "We saved the subscription.","Έχουμε αποθηκεύσει την συνδρομή.",module,Magento_Newsletter
 "We removed the subscription.","Έχουμε καταργήσει την συνδρομή.",module,Magento_Newsletter
-"Your subscription has been confirmed.","Your subscription has been confirmed.",module,Magento_Newsletter
+"Your subscription has been confirmed.","Η συνδρομή σας έχει επιβεβαιωθεί.",module,Magento_Newsletter
 "This is an invalid subscription confirmation code.","This is an invalid subscription confirmation code.",module,Magento_Newsletter
 "This is an invalid subscription ID.","This is an invalid subscription ID.",module,Magento_Newsletter
-"This email address is already assigned to another user.","This email address is already assigned to another user.",module,Magento_Newsletter
+"This email address is already assigned to another user.","Αυτή η διεύθυνση ηλεκτρονικού ταχυδρομείου έχει ήδη αντιστοιχιστεί σε άλλον χρήστη.",module,Magento_Newsletter
 "Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.",module,Magento_Newsletter
 "Please enter a valid email address.","Παρακαλώ εισάγετε μία έγκυρη διεύθυνση email.",module,Magento_Newsletter
 "The confirmation request has been sent.","The confirmation request has been sent.",module,Magento_Newsletter
 "Thank you for your subscription.","Thank you for your subscription.",module,Magento_Newsletter
-"There was a problem with the subscription: %1","There was a problem with the subscription: %1",module,Magento_Newsletter
+"There was a problem with the subscription: %1","Υπήρξε ένα πρόβλημα με την εγγραφή: %1",module,Magento_Newsletter
 "Something went wrong with the subscription.","Something went wrong with the subscription.",module,Magento_Newsletter
 "You unsubscribed.","You unsubscribed.",module,Magento_Newsletter
 "Something went wrong while unsubscribing you.","Something went wrong while unsubscribing you.",module,Magento_Newsletter
@@ -3276,7 +3276,7 @@ N/A,N/A,module,Magento_Payment
 "Transaction has been declined. Please try again later.","Transaction has been declined. Please try again later.",module,Magento_Payment
 "Wrong gateway response format.","Wrong gateway response format.",module,Magento_Payment
 "Validator for field %1 does not exist.","Validator for field %1 does not exist.",module,Magento_Payment
-Discount,Discount,module,Magento_Payment
+Discount,Έκπτωση,module,Magento_Payment
 Shipping,Αποστολή,module,Magento_Payment
 "All Allowed Countries","All Allowed Countries",module,Magento_Payment
 "Specific Countries","Specific Countries",module,Magento_Payment
@@ -3681,7 +3681,7 @@ Updated:,Ενημερώθηκε:,module,Magento_Paypal
 "Order #","Παραγγελία #",module,Magento_Paypal
 Date,Ημερομηνία,module,Magento_Paypal
 "Ship To","Αποστολή προς",module,Magento_Paypal
-"Order Status","Order Status",module,Magento_Paypal
+"Order Status","Κατάσταση Παραγγελίας",module,Magento_Paypal
 "View Order","Προβολή παραγγελίας",module,Magento_Paypal
 "Back to Billing Agreements","Επιστροφή στις συμφωνίες χρέωσης",module,Magento_Paypal
 "Payment Method","Τρόπος πληρωμής",module,Magento_Paypal
@@ -3822,7 +3822,7 @@ Subtotal,Υποσύνολο,module,Magento_Quote
 "Please check the billing address information. %1","Please check the billing address information. %1",module,Magento_Quote
 "Please select a valid payment method.","Παρακαλώ επιλέξτε έναν έγκυρο τρόπο πληρωμής.",module,Magento_Quote
 "Store Credit","Store Credit",module,Magento_Quote
-Discount,Discount,module,Magento_Quote
+Discount,Έκπτωση,module,Magento_Quote
 Tax,Φόρος,module,Magento_Quote
 "Cart contains virtual product(s) only. Shipping address is not applicable.","Cart contains virtual product(s) only. Shipping address is not applicable.",module,Magento_Quote
 "Shipping address not set.","Shipping address not set.",module,Magento_Quote
@@ -3841,7 +3841,7 @@ Month,Μήνας,module,Magento_Reports
 Year,Έτος,module,Magento_Reports
 Period,Περίοδος,module,Magento_Reports
 From,Από,module,Magento_Reports
-To,Σε,module,Magento_Reports
+To,Έως,module,Magento_Reports
 Yes,Ναι,module,Magento_Reports
 No,Όχι,module,Magento_Reports
 "Empty Rows","Κενές σειρές",module,Magento_Reports
@@ -3884,7 +3884,7 @@ Uses,Χρήσεις,module,Magento_Reports
 "Sales Subtotal","Sales Subtotal",module,Magento_Reports
 "Sales Discount","Sales Discount",module,Magento_Reports
 "Sales Total","Sales Total",module,Magento_Reports
-Discount,Discount,module,Magento_Reports
+Discount,Έκπτωση,module,Magento_Reports
 "Total Invoiced vs. Paid Report","Total Invoiced vs. Paid Report",module,Magento_Reports
 Orders,Παραγγελίες,module,Magento_Reports
 "Invoiced Orders","Invoiced Orders",module,Magento_Reports
@@ -4234,8 +4234,8 @@ Numeric,Numeric,module,Magento_SalesRule
 "Specified rule only allows auto generated coupons","Specified rule only allows auto generated coupons",module,Magento_SalesRule
 "Specified rule does not allow auto generated coupons","Specified rule does not allow auto generated coupons",module,Magento_SalesRule
 "Error occurred when saving coupon: %1","Error occurred when saving coupon: %1",module,Magento_SalesRule
-"Discount (%1)","Discount (%1)",module,Magento_SalesRule
-Discount,Discount,module,Magento_SalesRule
+"Discount (%1)","Έκπτωση (%1)",module,Magento_SalesRule
+Discount,Έκπτωση,module,Magento_SalesRule
 "Coupon with the same code","Coupon with the same code",module,Magento_SalesRule
 "No Coupon","No Coupon",module,Magento_SalesRule
 "Specific Coupon","Specific Coupon",module,Magento_SalesRule
@@ -4314,10 +4314,10 @@ Cancel,Ακύρωση,module,Magento_Sales
 "Order Comment","Order Comment",module,Magento_Sales
 Coupons,Coupons,module,Magento_Sales
 "Please select a customer","Παρακαλώ επιλέξτε έναν πελάτη",module,Magento_Sales
-"Create New Customer","Create New Customer",module,Magento_Sales
+"Create New Customer","Δημιουργία Νέου Πελάτη",module,Magento_Sales
 "Account Information","Πληροφορίες λογαριασμού",module,Magento_Sales
 From,Από,module,Magento_Sales
-To,Σε,module,Magento_Sales
+To,Έως,module,Magento_Sales
 Message,Μήνυμα,module,Magento_Sales
 "Edit Order #%1","Επεξεργασία παραγγελίας #%1",module,Magento_Sales
 "Create New Order for %1 in %2","Create New Order for %1 in %2",module,Magento_Sales
@@ -4399,7 +4399,7 @@ Capture,Capture,module,Magento_Sales
 "Save Status Assignment","Save Status Assignment",module,Magento_Sales
 "Assign Order Status to State","Assign Order Status to State",module,Magento_Sales
 "Assignment Information","Assignment Information",module,Magento_Sales
-"Order Status","Order Status",module,Magento_Sales
+"Order Status","Κατάσταση Παραγγελίας",module,Magento_Sales
 "Order State","Order State",module,Magento_Sales
 "Use Order Status As Default","Use Order Status As Default",module,Magento_Sales
 "Visible On Storefront","Ορατό στο Storefront",module,Magento_Sales
@@ -4462,8 +4462,8 @@ No,Όχι,module,Magento_Sales
 "New Order RSS","New Order RSS",module,Magento_Sales
 Subtotal,Υποσύνολο,module,Magento_Sales
 "Shipping & Handling","Αποστολή & Διαχείριση",module,Magento_Sales
-"Discount (%1)","Discount (%1)",module,Magento_Sales
-Discount,Discount,module,Magento_Sales
+"Discount (%1)","Έκπτωση (%1)",module,Magento_Sales
+Discount,Έκπτωση,module,Magento_Sales
 "Grand Total","Γενικό σύνολο",module,Magento_Sales
 Back,Πίσω,module,Magento_Sales
 Fetch,Fetch,module,Magento_Sales
@@ -4882,12 +4882,12 @@ Comment,Comment,module,Magento_Sales
 "Order & Account Information","Παραγγελία & Πληροφορίες λογαριασμού",module,Magento_Sales
 "The order confirmation email was sent","Το email επιβεβαίωσης της παραγγελίας στάλθηκε",module,Magento_Sales
 "The order confirmation email is not sent","The order confirmation email is not sent",module,Magento_Sales
-"Order Date","Order Date",module,Magento_Sales
+"Order Date","Ημερομηνία Παραγγελίας",module,Magento_Sales
 "Order Date (%1)","Order Date (%1)",module,Magento_Sales
-"Purchased From","Purchased From",module,Magento_Sales
+"Purchased From","Αγορά Από",module,Magento_Sales
 "Link to the New Order","Link to the New Order",module,Magento_Sales
 "Link to the Previous Order","Link to the Previous Order",module,Magento_Sales
-"Placed from IP","Placed from IP",module,Magento_Sales
+"Placed from IP","Τοποθετήθηκε από την IP",module,Magento_Sales
 "%1 / %2 rate:","%1 / %2 rate:",module,Magento_Sales
 "Customer Name","Όνομα πελάτη",module,Magento_Sales
 "Customer Group","Ομάδα Πελατών",module,Magento_Sales
@@ -4922,7 +4922,7 @@ Actions,Ενέργειες,module,Magento_Sales
 "View Order","Προβολή παραγγελίας",module,Magento_Sales
 "You have placed no orders.","Δεν έχετε παραγγελίες.",module,Magento_Sales
 "No shipping information available","No shipping information available",module,Magento_Sales
-"Print Order","Print Order",module,Magento_Sales
+"Print Order","Εκτύπωση παραγγελίας",module,Magento_Sales
 "Print All Invoices","Print All Invoices",module,Magento_Sales
 "Invoice #","Invoice #",module,Magento_Sales
 "Print Invoice","Print Invoice",module,Magento_Sales
@@ -5130,7 +5130,7 @@ Width,Width,module,Magento_Shipping
 Contents,Contents,module,Magento_Shipping
 "Total Weight","Total Weight",module,Magento_Shipping
 Height,Height,module,Magento_Shipping
-Size,Size,module,Magento_Shipping
+Size,Μέγεθος,module,Magento_Shipping
 Girth,Girth,module,Magento_Shipping
 "Items in the Package","Items in the Package",module,Magento_Shipping
 Product,Προϊόν,module,Magento_Shipping
@@ -5428,8 +5428,8 @@ Subtotal,Υποσύνολο,module,Magento_Tax
 "Unit Price","Unit Price",module,Magento_Tax
 "Row Total","Σύνολο γραμμής",module,Magento_Tax
 Total,Σύνολο,module,Magento_Tax
-"Before Discount","Before Discount",module,Magento_Tax
-"After Discount","After Discount",module,Magento_Tax
+"Before Discount","Πριν την έκπτωση",module,Magento_Tax
+"After Discount","Μετά την έκπτωση",module,Magento_Tax
 "Excluding Tax","Excluding Tax",module,Magento_Tax
 "Including Tax","Including Tax",module,Magento_Tax
 None,Κανένα,module,Magento_Tax
@@ -6077,7 +6077,7 @@ All,Όλα,module,Magento_Widget
 Apply,Apply,module,Magento_Widget
 Page,Page,module,Magento_Widget
 "Wish List","Wish List",module,Magento_Wishlist
-"Wish List Sharing","Wish List Sharing",module,Magento_Wishlist
+"Wish List Sharing","Κοινοποίηση Λίστας Επιθυμιών",module,Magento_Wishlist
 "My Wish List","Η λίστα επιθυμιών μου",module,Magento_Wishlist
 "%1's Wish List","%1's Wish List",module,Magento_Wishlist
 "Page not found.","Page not found.",module,Magento_Wishlist
@@ -6098,7 +6098,7 @@ Page,Page,module,Magento_Widget
 "Please enter an email address.","Please enter an email address.",module,Magento_Wishlist
 "This wish list can be shared %1 more times.","This wish list can be shared %1 more times.",module,Magento_Wishlist
 "Please enter a valid email address.","Παρακαλώ εισάγετε μία έγκυρη διεύθυνση email.",module,Magento_Wishlist
-"Your wish list has been shared.","Your wish list has been shared.",module,Magento_Wishlist
+"Your wish list has been shared.","Η λίστα επιθυμιών σας έχει κοινοποιηθεί.",module,Magento_Wishlist
 "We can't delete item from Wish List right now.","We can't delete item from Wish List right now.",module,Magento_Wishlist
 "Can't save description %1","Can't save description %1",module,Magento_Wishlist
 "Can't update wish list","Can't update wish list",module,Magento_Wishlist
@@ -6160,8 +6160,8 @@ Product,Προϊόν,module,Magento_Wishlist
 Back,Πίσω,module,Magento_Wishlist
 "Wish List is empty now.","Wish List is empty now.",module,Magento_Wishlist
 "* Required Fields","* Απαιτούμενα πεδία",module,Magento_Wishlist
-"Sharing Information","Sharing Information",module,Magento_Wishlist
-"Email addresses, separated by commas","Email addresses, separated by commas",module,Magento_Wishlist
+"Sharing Information","Πληροφορίες κοινοποίησης",module,Magento_Wishlist
+"Email addresses, separated by commas","Διευθύνσεις email, χωρισμένες με κόμμα",module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Check here to link an RSS feed to your Wish List.",module,Magento_Wishlist
 "Last Added Items","Είδη που προστέθηκαν πρόσφατα",module,Magento_Wishlist
 "Remove This Item","Remove This Item",module,Magento_Wishlist
@@ -6395,7 +6395,7 @@ Password:,Password:,theme,frontend/Magento/luma
 "When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",theme,frontend/Magento/luma
 "Quick Checkout","Quick Checkout",theme,frontend/Magento/luma
 "Proceed through checkout faster","Proceed through checkout faster",theme,frontend/Magento/luma
-"Order Status","Order Status",theme,frontend/Magento/luma
+"Order Status","Κατάσταση Παραγγελίας",theme,frontend/Magento/luma
 "Check the status of orders","Check the status of orders",theme,frontend/Magento/luma
 "Manage Addresses","Διαχείριση διευθύνσεων",theme,frontend/Magento/luma
 "Store alternative addresses","Store alternative addresses",theme,frontend/Magento/luma
@@ -6471,8 +6471,8 @@ YY,YY,module,Magento_Braintree
 "Please try again with another form of payment.","Please try again with another form of payment.",module,Magento_Braintree
 "Sorry, but something went wrong.","Sorry, but something went wrong.",module,Magento_Braintree
 "Payment ","Payment ",module,Magento_Braintree
-"Add Products to New Option","Add Products to New Option",module,Magento_Bundle
-"Add Products to Option ""%1""","Add Products to Option ""%1""",module,Magento_Bundle
+"Add Products to New Option","Προσθήκη προϊόντων στη νέα επιλογή",module,Magento_Bundle
+"Add Products to Option ""%1""","Προσθήκη προϊόντων στην επιλογή ""%1""",module,Magento_Bundle
 "Warning message","Warning message",module,Magento_Catalog
 Submit,Υποβολή,module,Magento_Catalog
 "We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Catalog
@@ -6582,7 +6582,7 @@ Off,Off,module,Magento_Ui
 "Go to Details Page","Μετάβαση στην σελίδα λεπτομεριών",module,Magento_Ui
 "New View","Νέα όψη",module,Magento_Ui
 "Default View","Προεπιλεγμένη όψη",module,Magento_Ui
-"${ $.visible } out of ${ $.total } visible","${ $.visible } out of ${ $.total } visible",module,Magento_Ui
+"${ $.visible } out of ${ $.total } visible","${ $.visible } από τα ${ $.total } ορατά",module,Magento_Ui
 "You have successfully saved your edits.","You have successfully saved your edits.",module,Magento_Ui
 "You haven't selected any items!","You haven't selected any items!",module,Magento_Ui
 "Search by keyword","Search by keyword",module,Magento_Ui
@@ -6698,7 +6698,7 @@ Debug,Debug,module,Magento_Authorizenet
 Marketing,Marketing,module,Magento_Backend
 "SEO & Search","SEO & Αναζήτηση",module,Magento_Backend
 "User Content","User Content",module,Magento_Backend
-Content,Content,module,Magento_Backend
+Content,Περιεχόμενο,module,Magento_Backend
 Elements,Elements,module,Magento_Backend
 Design,Design,module,Magento_Backend
 Schedule,Schedule,module,Magento_Backend
@@ -6769,7 +6769,7 @@ Region/State,Region/State,module,Magento_Backend
 City,Πόλη,module,Magento_Backend
 "Street Address","Διεύθυνση",module,Magento_Backend
 "Street Address Line 2","Διεύθυνση γραμμή 2",module,Magento_Backend
-"VAT Number","VAT Number",module,Magento_Backend
+"VAT Number","Α.Φ.Μ.",module,Magento_Backend
 "Single-Store Mode","Single-Store Mode",module,Magento_Backend
 "Enable Single-Store Mode","Enable Single-Store Mode",module,Magento_Backend
 "This setting will not be taken into account if system has more than one store view.","This setting will not be taken into account if system has more than one store view.",module,Magento_Backend
@@ -6870,9 +6870,9 @@ Frequency,Συχνότητα,module,Magento_Backup
 "Maintenance Mode","Maintenance Mode",module,Magento_Backup
 Delete,Διαγραφή,module,Magento_Backup
 "Are you sure you want to delete the selected backup(s)?","Are you sure you want to delete the selected backup(s)?",module,Magento_Backup
-Time,Time,module,Magento_Backup
+Time,Χρονική στιγμή,module,Magento_Backup
 Name,Όνομα,module,Magento_Backup
-Size(bytes),Size(bytes),module,Magento_Backup
+Size(bytes),Μέγεθος (bytes),module,Magento_Backup
 Type,Τύπος,module,Magento_Backup
 download,λήψη,module,Magento_Backup
 Action,Ενέργεια,module,Magento_Backup
@@ -7112,7 +7112,7 @@ Set,Set,module,Magento_Catalog
 "Category Information","Category Information",module,Magento_Catalog
 "Enable Category","Enable Category",module,Magento_Catalog
 "Include in Menu","Include in Menu",module,Magento_Catalog
-Content,Content,module,Magento_Catalog
+Content,Περιεχόμενο,module,Magento_Catalog
 "Category Image","Category Image",module,Magento_Catalog
 "Add CMS Block","Add CMS Block",module,Magento_Catalog
 "Display Settings","Display Settings",module,Magento_Catalog
@@ -7187,7 +7187,7 @@ Summary,Σύνοψη,module,Magento_Checkout
 Payment,Πληρωμή,module,Magento_Checkout
 "Not yet calculated","Not yet calculated",module,Magento_Checkout
 "We received your order!","We received your order!",module,Magento_Checkout
-"Thank you for your purchase!","Thank you for your purchase!",module,Magento_Checkout
+"Thank you for your purchase!","Σας ευχαριστούμε για την αγορά σας",module,Magento_Checkout
 "Media Gallery","Media Gallery",module,Magento_Cms
 "Content Management","Content Management",module,Magento_Cms
 "CMS Home Page","CMS Αρχική σελίδα",module,Magento_Cms
@@ -7222,7 +7222,7 @@ Block,Block,module,Magento_Cms
 "Are you sure you wan't to delete selected items?","Are you sure you wan't to delete selected items?",module,Magento_Cms
 "Page Information","Page Information",module,Magento_Cms
 "Enable Page","Enable Page",module,Magento_Cms
-Content,Content,module,Magento_Cms
+Content,Περιεχόμενο,module,Magento_Cms
 "Content Heading","Content Heading",module,Magento_Cms
 "Search Engine Optimisation","Search Engine Optimisation",module,Magento_Cms
 "Meta Title","Meta Title",module,Magento_Cms
@@ -7233,7 +7233,7 @@ Design,Design,module,Magento_Cms
 "Layout Update XML","Layout Update XML",module,Magento_Cms
 "Custom Design Update","Custom Design Update",module,Magento_Cms
 From,Από,module,Magento_Cms
-To,Σε,module,Magento_Cms
+To,Έως,module,Magento_Cms
 "New Theme","New Theme",module,Magento_Cms
 "-- Please Select --","-- Παρακαλώ επιλέξτε --",module,Magento_Cms
 "New Layout","New Layout",module,Magento_Cms
@@ -7442,7 +7442,7 @@ Password,Κωδικός πρόσβασης,module,Magento_Dhl
 "Divide Order Weight","Divide Order Weight",module,Magento_Dhl
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.",module,Magento_Dhl
 "Weight Unit","Weight Unit",module,Magento_Dhl
-Size,Size,module,Magento_Dhl
+Size,Μέγεθος,module,Magento_Dhl
 "Allowed Methods","Allowed Methods",module,Magento_Dhl
 "Displayed Error Message","Displayed Error Message",module,Magento_Dhl
 "Free Method","Free Method",module,Magento_Dhl
@@ -7822,7 +7822,7 @@ Manage,Manage,module,Magento_Paypal
 "Home Page","Αρχική σελίδα",module,Magento_Paypal
 Display,Display,module,Magento_Paypal
 Position,Θέση,module,Magento_Paypal
-Size,Size,module,Magento_Paypal
+Size,Μέγεθος,module,Magento_Paypal
 "Catalog Category Page","Catalog Category Page",module,Magento_Paypal
 "Catalog Product Page","Catalog Product Page",module,Magento_Paypal
 "Checkout Cart Page","Checkout Cart Page",module,Magento_Paypal
@@ -8129,7 +8129,7 @@ Coupon,Coupon,module,Magento_SalesRule
                         Usage limit enforced for logged in customers only.
                     ",module,Magento_SalesRule
 From,Από,module,Magento_SalesRule
-To,Σε,module,Magento_SalesRule
+To,Έως,module,Magento_SalesRule
 "Public In RSS Feed","Public In RSS Feed",module,Magento_SalesRule
 Apply,Apply,module,Magento_SalesRule
 "Discount Amount","Ποσό έκπτωσης",module,Magento_SalesRule
@@ -8341,7 +8341,7 @@ Enabled,Ενεργοποιημένο,module,Magento_Sitemap
 "Start Time","Start Time",module,Magento_Sitemap
 "Sitemap File Limits","Sitemap File Limits",module,Magento_Sitemap
 "Maximum No of URLs Per File","Maximum No of URLs Per File",module,Magento_Sitemap
-"Maximum File Size","Maximum File Size",module,Magento_Sitemap
+"Maximum File Size","Μέγιστο μέγεθος αρχείου",module,Magento_Sitemap
 "File size in bytes.","File size in bytes.",module,Magento_Sitemap
 "Search Engine Submission Settings","Search Engine Submission Settings",module,Magento_Sitemap
 "Enable Submission to Robots.txt","Enable Submission to Robots.txt",module,Magento_Sitemap
@@ -8367,7 +8367,7 @@ Layouts,Layouts,module,Magento_Store
 Image,Image,module,Magento_Swatches
 "Allowed file types: jpeg, gif, png.","Allowed file types: jpeg, gif, png.",module,Magento_Swatches
 "Image Opacity","Image Opacity",module,Magento_Swatches
-"Image Size","Image Size",module,Magento_Swatches
+"Image Size","Μέγεθος εικόνας",module,Magento_Swatches
 "Example format: 200x300.","Example format: 200x300.",module,Magento_Swatches
 "Image Position","Θέση εικόνας",module,Magento_Swatches
 "Default Store View","Default Store View",module,Magento_Swatches
@@ -8537,7 +8537,7 @@ Password,Κωδικός πρόσβασης,module,Magento_Usps
 Mode,Mode,module,Magento_Usps
 "Packages Request Type","Packages Request Type",module,Magento_Usps
 Container,Container,module,Magento_Usps
-Size,Size,module,Magento_Usps
+Size,Μέγεθος,module,Magento_Usps
 Width,Width,module,Magento_Usps
 Length,Length,module,Magento_Usps
 Height,Height,module,Magento_Usps
@@ -8620,3 +8620,13 @@ Delete,Διαγραφή,module,Magento_Wishlist
 "Account Dashboard","Πάνελ λογαριασμού",theme,frontend/Magento/luma
 "Account Information","Πληροφορίες λογαριασμού",theme,frontend/Magento/luma
 "Address Book","Βιβλίο διευθύνσεων",theme,frontend/Magento/luma
+
+## Manually added translation strings
+"Edit item","Επεξεργασία είδους"
+"Print receipt","Εκτύπωση αποδεικτικού"
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Προσθέσατε το είδος %1 στο <a href=""%2"">καλάθι αγορών</a> σας."
+"Review","Κριτική"
+"Please type the letters and numbers below","Πληκτρολογήστε τα παρακάτω γράμματα και αριθμούς"
+"Forgot Your Password","Ξεχάσατε τον κωδικό σας"
+"Are you sure you would like to remove this item from the shopping cart?","Είστε βέβαιοι ότι θέλετε να καταργήσετε αυτό το είδος από το καλάθι αγορών;"
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
