@@ -6,8 +6,8 @@
         "OSL-3.0"
     ],
     "require": {
-        "magento/framework": ">102.0",
-        "gladd/module-base": "^2.0"
+        "gladd/module-base": "^2.0",
+        "magento/framework": "^102.0"
     },
     "type": "magento2-language",
     "autoload": {
