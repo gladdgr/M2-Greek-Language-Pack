@@ -3374,7 +3374,7 @@ Sales,Πωλήσεις,module,Magento_Paypal
 "PayPal Express Checkout Token does not exist.","PayPal Express Checkout Token does not exist.",module,Magento_Paypal
 "A wrong PayPal Express Checkout Token is specified.","A wrong PayPal Express Checkout Token is specified.",module,Magento_Paypal
 "Express Checkout and Order have been canceled.","Express Checkout and Order have been canceled.",module,Magento_Paypal
-"Express Checkout has been canceled.","Express Checkout has been canceled.",module,Magento_Paypal
+"Express Checkout has been canceled.","Το Express Checkout ακυρώθηκε.",module,Magento_Paypal
 "Unable to cancel Express Checkout","Unable to cancel Express Checkout",module,Magento_Paypal
 "Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_Paypal
 "We can't place the order.","We can't place the order.",module,Magento_Paypal
@@ -3913,7 +3913,7 @@ Canceled,Ακυρώθηκε,module,Magento_Reports
 Carrier/Method,Carrier/Method,module,Magento_Reports
 "Total Sales Shipping","Total Sales Shipping",module,Magento_Reports
 "Total Shipping","Total Shipping",module,Magento_Reports
-"Order Taxes Report Grouped by Tax Rate","Order Taxes Report Grouped by Tax Rate",module,Magento_Reports
+"Order Taxes Report Grouped by Tax Rate","Αναφορά Φόρων Παραγγελίας Ομαδοποιημένων Κατά Ποσοστό Φόρου",module,Magento_Reports
 Rate,Rate,module,Magento_Reports
 "Tax Amount","Ποσό φόρου",module,Magento_Reports
 "Abandoned carts","Εγκαταλειμμένα καλάθια",module,Magento_Reports
@@ -3977,7 +3977,7 @@ Statistics,Statistics,module,Magento_Reports
 "Recent statistics have been updated.","Recent statistics have been updated.",module,Magento_Reports
 "We can't refresh recent statistics.","We can't refresh recent statistics.",module,Magento_Reports
 "The product type filter specified is incorrect.","The product type filter specified is incorrect.",module,Magento_Reports
-"Order Taxes Report Grouped by Tax Rates","Order Taxes Report Grouped by Tax Rates",module,Magento_Reports
+"Order Taxes Report Grouped by Tax Rates","Αναφορά Φόρων Παραγγελίας Ομαδοποιημένων Κατά Ποσοστό Φόρου",module,Magento_Reports
 "Total Invoiced VS Paid Report","Total Invoiced VS Paid Report",module,Magento_Reports
 "Promotion Coupons Usage Report","Promotion Coupons Usage Report",module,Magento_Reports
 Bestsellers,Κορυφαία σε πωλήσεις,module,Magento_Reports
@@ -6054,7 +6054,7 @@ Products,Προϊόντα,module,Magento_Widget
 "Add Layout Update","Add Layout Update",module,Magento_Widget
 "Remove Layout Update","Remove Layout Update",module,Magento_Widget
 "Widget Options","Widget Options",module,Magento_Widget
-Settings,Settings,module,Magento_Widget
+Settings,Ρυθμίσεις,module,Magento_Widget
 "Design Theme","Design Theme",module,Magento_Widget
 Continue,Συνέχεια,module,Magento_Widget
 "Please specify a Widget Type.","Please specify a Widget Type.",module,Magento_Widget
@@ -6272,12 +6272,12 @@ Password:,Password:,module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_Customer
 "Your %store_name password has been changed","Your %store_name password has been changed",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: password.","We have received a request to change the following information associated with your account at %store_name: password.",module,Magento_Customer
-"Checkout out as a new customer","Checkout out as a new customer",module,Magento_Customer
-"Creating an account has many benefits:","Creating an account has many benefits:",module,Magento_Customer
+"Checkout out as a new customer","Παραγγελία ως νέος πελάτης",module,Magento_Customer
+"Creating an account has many benefits:","Η δημιουργία λογαριασμού έχει πολλά οφέλη:",module,Magento_Customer
 "See order and shipping status","Δείτε την παραγγελία και την κατάσταση αποστολής",module,Magento_Customer
 "Track order history","Παρακολούθηση ιστορικού παραγγελίας",module,Magento_Customer
 "Check out faster","Ολοκλήρωση της παραγγελίας πιο γρήγορα",module,Magento_Customer
-"Checkout out using your account","Checkout out using your account",module,Magento_Customer
+"Checkout out using your account","Παραγγελία με χρήση του λογαριασμού σας",module,Magento_Customer
 "Email Address","Διεύθυνση Email",module,Magento_Customer
 "Currency Update Warnings","Currency Update Warnings",module,Magento_Directory
 Footer,Footer,module,Magento_Email
@@ -6522,7 +6522,7 @@ Weak,Αδύναμος,module,Magento_Customer
 Medium,Μέτριος,module,Magento_Customer
 Strong,Ισχυρός,module,Magento_Customer
 "Very Strong","Πολύ Ισχυρός",module,Magento_Customer
-"Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Customer
+"Guest checkout is disabled.","Η παραγγελία ως επισκέπτης είναι απενεργοποιημένη.",module,Magento_Customer
 "Field ","Πεδίο ",module,Magento_Dhl
 " is required."," απαιτείται.",module,Magento_Dhl
 "We could not detect a size.","We could not detect a size.",module,Magento_Downloadable
@@ -6702,7 +6702,7 @@ Content,Περιεχόμενο,module,Magento_Backend
 Elements,Elements,module,Magento_Backend
 Design,Design,module,Magento_Backend
 Schedule,Schedule,module,Magento_Backend
-Settings,Settings,module,Magento_Backend
+Settings,Ρυθμίσεις,module,Magento_Backend
 "All Stores","Όλα τα καταστήματα",module,Magento_Backend
 Attributes,Ιδιότητες,module,Magento_Backend
 "Other Settings","Other Settings",module,Magento_Backend
@@ -8374,7 +8374,7 @@ Image,Image,module,Magento_Swatches
 Admin,Admin,module,Magento_Swatches
 CSV,CSV,module,Magento_TaxImportExport
 "Excel XML","Excel XML",module,Magento_TaxImportExport
-Taxes,Taxes,module,Magento_Tax
+Taxes,Φόροι,module,Magento_Tax
 "Tax Section","Tax Section",module,Magento_Tax
 "Tax Classes","Tax Classes",module,Magento_Tax
 "Tax Class for Shipping","Tax Class for Shipping",module,Magento_Tax
@@ -8461,7 +8461,7 @@ Store,Κατάστημα,module,Magento_Theme
 "Skip to Content","Skip to Content",module,Magento_Theme
 Menu,Menu,module,Magento_Theme
 Account,Account,module,Magento_Theme
-Settings,Settings,module,Magento_Theme
+Settings,Ρυθμίσεις,module,Magento_Theme
 "2 columns with left bar","2 columns with left bar",module,Magento_Theme
 "2 columns with right bar","2 columns with right bar",module,Magento_Theme
 "3 columns","3 columns",module,Magento_Theme
@@ -8572,7 +8572,7 @@ Name,Όνομα,module,Magento_Variable
 "If empty, UTF-8 will be used.","If empty, UTF-8 will be used.",module,Magento_Webapi
 "Web Services Configuration","Web Services Configuration",module,Magento_Webapi
 "REST and SOAP configurations, generated WSDL file","REST and SOAP configurations, generated WSDL file",module,Magento_Webapi
-"Fixed Product Taxes","Fixed Product Taxes",module,Magento_Weee
+"Fixed Product Taxes","Σταθεροί Φόροι Προϊόντος",module,Magento_Weee
 "Enable FPT","Enable FPT",module,Magento_Weee
 "Display Prices In Product Lists","Display Prices In Product Lists",module,Magento_Weee
 "Display Prices On Product View Page","Display Prices On Product View Page",module,Magento_Weee
