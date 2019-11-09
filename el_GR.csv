@@ -139,7 +139,7 @@ Email,Email,module,Magento_Backend
 Refresh,Ανανέωση,module,Magento_Backend
 "Images Cache","Images Cache",module,Magento_Backend
 Clear,Clear,module,Magento_Backend
-"Search Index","Search Index",module,Magento_Backend
+"Search Index","Ευρετήριο Αναζήτησης",module,Magento_Backend
 Rebuild,Rebuild,module,Magento_Backend
 "Inventory Stock Status","Inventory Stock Status",module,Magento_Backend
 "Rebuild Catalog Index","Rebuild Catalog Index",module,Magento_Backend
@@ -317,8 +317,8 @@ Password,Κωδικός πρόσβασης,module,Magento_Backend
 "Last Orders","Τελευταίες παραγγελίες",module,Magento_Backend
 "Last Search Terms","Τελευταίοι όροι αναζήτησης",module,Magento_Backend
 "Top Search Terms","Κορυφαίοι όροι αναζήτησης",module,Magento_Backend
-"There are no search keywords.","There are no search keywords.",module,Magento_Backend
-"View Statistics For:","View Statistics For:",module,Magento_Backend
+"There are no search keywords.","Δεν βρέθηκαν λέξεις κλειδιά αναζήτησης.",module,Magento_Backend
+"View Statistics For:","Προβολή στατιστικών για:",module,Magento_Backend
 "All Websites","Όλα τα Websites",module,Magento_Backend
 "Reload Data","Ανανέωση δεδομένων",module,Magento_Backend
 "Browse Files...","Αναζήτηση αρχείων...",module,Magento_Backend
@@ -699,7 +699,7 @@ Promo,Promo,module,Magento_CatalogRule
 "You disabled %1 Catalog Price Rules based on ""%2"" attribute.","You disabled %1 Catalog Price Rules based on ""%2"" attribute.",module,Magento_CatalogRule
 Home,Αρχική,module,Magento_CatalogSearch
 "Go to Home Page","Μετάβαση στην Αρχική σελίδα",module,Magento_CatalogSearch
-"Catalog Advanced Search","Catalog Advanced Search",module,Magento_CatalogSearch
+"Catalog Advanced Search","Εξείδικευμένη αναζήτηση καταλάγου",module,Magento_CatalogSearch
 All,Όλα,module,Magento_CatalogSearch
 Yes,Ναι,module,Magento_CatalogSearch
 No,Όχι,module,Magento_CatalogSearch
@@ -743,7 +743,7 @@ Root,Root,module,Magento_Catalog
 Delete,Διαγραφή,module,Magento_Catalog
 Save,Αποθήκευση,module,Magento_Catalog
 "Use Config Settings","Use Config Settings",module,Magento_Catalog
-"Use All Available Attributes","Use All Available Attributes",module,Magento_Catalog
+"Use All Available Attributes","Χρήση όλων των διαθέσιμων Attributes",module,Magento_Catalog
 ID,ID,module,Magento_Catalog
 Name,Όνομα,module,Magento_Catalog
 SKU,Κωδικός,module,Magento_Catalog
@@ -1415,7 +1415,7 @@ Checkout,Ολοκλήρωση αγοράς,module,Magento_Checkout
 "The customer address is not valid.","Η διεύθυνση του πελάτη δεν είναι έγκυρη",module,Magento_Checkout
 "Invalid shipping method","Μη έγκυρος τρόπος αποστολής",module,Magento_Checkout
 "There are more than one shipping addresses.","Υπάρχουν παραπάνω από μία διευθύνσεις αποστολής",module,Magento_Checkout
-"Sorry, guest checkout is not available.","Sorry, guest checkout is not available.",module,Magento_Checkout
+"Sorry, guest checkout is not available.","Λυπούμαστε, η αγορά ως επισκέπτης δεν είναι διαθέσιμη.",module,Magento_Checkout
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.",module,Magento_Checkout
 "Load customer quote error","Load customer quote error",module,Magento_Checkout
 "Error message!","Error message!",module,Magento_Checkout
@@ -2289,7 +2289,7 @@ Unlimited,Απεριόριστο,module,Magento_Downloadable
 "Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Please sign in to download your product or purchase <a href=""%1"">%2</a>.",module,Magento_Downloadable
 "Please sign in to download your product.","Please sign in to download your product.",module,Magento_Downloadable
 "The link has expired.","The link has expired.",module,Magento_Downloadable
-"The link is not available.","The link is not available.",module,Magento_Downloadable
+"The link is not available.","Το link δεν είναι διαθέσιμο.",module,Magento_Downloadable
 "Sorry, there was an error getting requested content. Please contact the store owner.","Sorry, there was an error getting requested content. Please contact the store owner.",module,Magento_Downloadable
 "Please set resource file and link type.","Please set resource file and link type.",module,Magento_Downloadable
 "Invalid download link type.","Invalid download link type.",module,Magento_Downloadable
@@ -2656,14 +2656,14 @@ Indirect,Indirect,module,Magento_Fedex
 Pounds,Pounds,module,Magento_Fedex
 Kilograms,Kilograms,module,Magento_Fedex
 "Invalid response from carrier","Invalid response from carrier",module,Magento_Fedex
-"No available tracking items","No available tracking items",module,Magento_Fedex
+"No available tracking items","Δεν υπάρχουν διαθέσιμα στοιχεία παρακολούθησης",module,Magento_Fedex
 "For some reason we can't retrieve tracking info right now.","For some reason we can't retrieve tracking info right now.",module,Magento_Fedex
 status,status,module,Magento_Fedex
 "Empty response","Empty response",module,Magento_Fedex
 None,Κανένα,module,Magento_Fedex
 "Gift Messages are not applicable for empty cart","Gift Messages are not applicable for empty cart",module,Magento_GiftMessage
 "Gift Messages are not applicable for virtual products","Gift Messages are not applicable for virtual products",module,Magento_GiftMessage
-"Gift Message is not available","Gift Message is not available",module,Magento_GiftMessage
+"Gift Message is not available","Το Μήνυμα Δώρου δεν είναι διαθέσιμο",module,Magento_GiftMessage
 "Could not add gift message to shopping cart","Could not add gift message to shopping cart",module,Magento_GiftMessage
 "There is no item with provided id in the cart","There is no item with provided id in the cart",module,Magento_GiftMessage
 "There is no product with provided  itemId: %1 in the cart","There is no product with provided  itemId: %1 in the cart",module,Magento_GiftMessage
@@ -2961,7 +2961,7 @@ Reset,Επαναφορά,module,Magento_Integration
 "Are you sure ?","Are you sure ?",module,Magento_Integration
 "Are you sure you want to delete this integration? You can't undo this action.","Are you sure you want to delete this integration? You can't undo this action.",module,Magento_Integration
 "Please setup or sign in into your 3rd party account to complete setup of this integration.","Please setup or sign in into your 3rd party account to complete setup of this integration.",module,Magento_Integration
-"Available APIs","Available APIs",module,Magento_Integration
+"Available APIs","Διαθέσιμα APIs",module,Magento_Integration
 "Resource Access","Resource Access",module,Magento_Integration
 Custom,Custom,module,Magento_Integration
 All,Όλα,module,Magento_Integration
@@ -3560,7 +3560,7 @@ Debit,Χρέωση,module,Magento_Paypal
 "Account-to-Account Payment, initiated by PayPal","Account-to-Account Payment, initiated by PayPal",module,Magento_Paypal
 "Auction Payment other than through eBay","Auction Payment other than through eBay",module,Magento_Paypal
 AutoSweep,AutoSweep,module,Magento_Paypal
-"Available Balance","Available Balance",module,Magento_Paypal
+"Available Balance","Διαθέσιμο Υπόλοιπο",module,Magento_Paypal
 "Balance Manager Account Bonus","Balance Manager Account Bonus",module,Magento_Paypal
 "Bonus for first ACH Use","Bonus for first ACH Use",module,Magento_Paypal
 "Buyer Credit Payment","Buyer Credit Payment",module,Magento_Paypal
@@ -4096,7 +4096,7 @@ Pending,Εκκρεμεί,module,Magento_Review
 "Please enter a review summary.","Please enter a review summary.",module,Magento_Review
 "Please enter a nickname.","Please enter a nickname.",module,Magento_Review
 "Please enter a review.","Please enter a review.",module,Magento_Review
-"Rating isn't Available","Rating isn't Available",module,Magento_Review
+"Rating isn't Available","Η αξιολόγηση δεν είναι διαθέσιμη",module,Magento_Review
 "Please specify a rating title for a store, or we'll just use the default value.","Please specify a rating title for a store, or we'll just use the default value.",module,Magento_Review
 "Assigned Options","Assigned Options",module,Magento_Review
 "Option Title:","Τίτλος επιλογής:",module,Magento_Review
