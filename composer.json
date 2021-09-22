@@ -1,14 +1,10 @@
 {
     "name": "gladd/language-el_gr",
     "description": "Greek language pack for Magento 2 shopping cart.",
-    "version": "2.0.0-alpha7",
+    "version": "2.0.0-alpha11",
     "license": [
         "OSL-3.0"
     ],
-    "require": {
-        "gladd/module-base": "^2.0",
-        "magento/framework": "^102.0"
-    },
     "type": "magento2-language",
     "autoload": {
         "files": [

@@ -139,7 +139,7 @@ Email,Email,module,Magento_Backend
 Refresh,Ανανέωση,module,Magento_Backend
 "Images Cache","Images Cache",module,Magento_Backend
 Clear,Clear,module,Magento_Backend
-"Search Index","Search Index",module,Magento_Backend
+"Search Index","Ευρετήριο Αναζήτησης",module,Magento_Backend
 Rebuild,Rebuild,module,Magento_Backend
 "Inventory Stock Status","Inventory Stock Status",module,Magento_Backend
 "Rebuild Catalog Index","Rebuild Catalog Index",module,Magento_Backend
@@ -317,8 +317,8 @@ Password,Κωδικός πρόσβασης,module,Magento_Backend
 "Last Orders","Τελευταίες παραγγελίες",module,Magento_Backend
 "Last Search Terms","Τελευταίοι όροι αναζήτησης",module,Magento_Backend
 "Top Search Terms","Κορυφαίοι όροι αναζήτησης",module,Magento_Backend
-"There are no search keywords.","There are no search keywords.",module,Magento_Backend
-"View Statistics For:","View Statistics For:",module,Magento_Backend
+"There are no search keywords.","Δεν βρέθηκαν λέξεις κλειδιά αναζήτησης.",module,Magento_Backend
+"View Statistics For:","Προβολή στατιστικών για:",module,Magento_Backend
 "All Websites","Όλα τα Websites",module,Magento_Backend
 "Reload Data","Ανανέωση δεδομένων",module,Magento_Backend
 "Browse Files...","Αναζήτηση αρχείων...",module,Magento_Backend
@@ -699,7 +699,7 @@ Promo,Promo,module,Magento_CatalogRule
 "You disabled %1 Catalog Price Rules based on ""%2"" attribute.","You disabled %1 Catalog Price Rules based on ""%2"" attribute.",module,Magento_CatalogRule
 Home,Αρχική,module,Magento_CatalogSearch
 "Go to Home Page","Μετάβαση στην Αρχική σελίδα",module,Magento_CatalogSearch
-"Catalog Advanced Search","Catalog Advanced Search",module,Magento_CatalogSearch
+"Catalog Advanced Search","Εξείδικευμένη αναζήτηση καταλάγου",module,Magento_CatalogSearch
 All,Όλα,module,Magento_CatalogSearch
 Yes,Ναι,module,Magento_CatalogSearch
 No,Όχι,module,Magento_CatalogSearch
@@ -743,7 +743,7 @@ Root,Root,module,Magento_Catalog
 Delete,Διαγραφή,module,Magento_Catalog
 Save,Αποθήκευση,module,Magento_Catalog
 "Use Config Settings","Use Config Settings",module,Magento_Catalog
-"Use All Available Attributes","Use All Available Attributes",module,Magento_Catalog
+"Use All Available Attributes","Χρήση όλων των διαθέσιμων Attributes",module,Magento_Catalog
 ID,ID,module,Magento_Catalog
 Name,Όνομα,module,Magento_Catalog
 SKU,Κωδικός,module,Magento_Catalog
@@ -1415,7 +1415,7 @@ Checkout,Ολοκλήρωση αγοράς,module,Magento_Checkout
 "The customer address is not valid.","Η διεύθυνση του πελάτη δεν είναι έγκυρη",module,Magento_Checkout
 "Invalid shipping method","Μη έγκυρος τρόπος αποστολής",module,Magento_Checkout
 "There are more than one shipping addresses.","Υπάρχουν παραπάνω από μία διευθύνσεις αποστολής",module,Magento_Checkout
-"Sorry, guest checkout is not available.","Sorry, guest checkout is not available.",module,Magento_Checkout
+"Sorry, guest checkout is not available.","Λυπούμαστε, η αγορά ως επισκέπτης δεν είναι διαθέσιμη.",module,Magento_Checkout
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.",module,Magento_Checkout
 "Load customer quote error","Load customer quote error",module,Magento_Checkout
 "Error message!","Error message!",module,Magento_Checkout
@@ -2289,7 +2289,7 @@ Unlimited,Απεριόριστο,module,Magento_Downloadable
 "Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Please sign in to download your product or purchase <a href=""%1"">%2</a>.",module,Magento_Downloadable
 "Please sign in to download your product.","Please sign in to download your product.",module,Magento_Downloadable
 "The link has expired.","The link has expired.",module,Magento_Downloadable
-"The link is not available.","The link is not available.",module,Magento_Downloadable
+"The link is not available.","Το link δεν είναι διαθέσιμο.",module,Magento_Downloadable
 "Sorry, there was an error getting requested content. Please contact the store owner.","Sorry, there was an error getting requested content. Please contact the store owner.",module,Magento_Downloadable
 "Please set resource file and link type.","Please set resource file and link type.",module,Magento_Downloadable
 "Invalid download link type.","Invalid download link type.",module,Magento_Downloadable
@@ -2656,14 +2656,14 @@ Indirect,Indirect,module,Magento_Fedex
 Pounds,Pounds,module,Magento_Fedex
 Kilograms,Kilograms,module,Magento_Fedex
 "Invalid response from carrier","Invalid response from carrier",module,Magento_Fedex
-"No available tracking items","No available tracking items",module,Magento_Fedex
+"No available tracking items","Δεν υπάρχουν διαθέσιμα στοιχεία παρακολούθησης",module,Magento_Fedex
 "For some reason we can't retrieve tracking info right now.","For some reason we can't retrieve tracking info right now.",module,Magento_Fedex
 status,status,module,Magento_Fedex
 "Empty response","Empty response",module,Magento_Fedex
 None,Κανένα,module,Magento_Fedex
 "Gift Messages are not applicable for empty cart","Gift Messages are not applicable for empty cart",module,Magento_GiftMessage
 "Gift Messages are not applicable for virtual products","Gift Messages are not applicable for virtual products",module,Magento_GiftMessage
-"Gift Message is not available","Gift Message is not available",module,Magento_GiftMessage
+"Gift Message is not available","Το Μήνυμα Δώρου δεν είναι διαθέσιμο",module,Magento_GiftMessage
 "Could not add gift message to shopping cart","Could not add gift message to shopping cart",module,Magento_GiftMessage
 "There is no item with provided id in the cart","There is no item with provided id in the cart",module,Magento_GiftMessage
 "There is no product with provided  itemId: %1 in the cart","There is no product with provided  itemId: %1 in the cart",module,Magento_GiftMessage
@@ -2961,7 +2961,7 @@ Reset,Επαναφορά,module,Magento_Integration
 "Are you sure ?","Are you sure ?",module,Magento_Integration
 "Are you sure you want to delete this integration? You can't undo this action.","Are you sure you want to delete this integration? You can't undo this action.",module,Magento_Integration
 "Please setup or sign in into your 3rd party account to complete setup of this integration.","Please setup or sign in into your 3rd party account to complete setup of this integration.",module,Magento_Integration
-"Available APIs","Available APIs",module,Magento_Integration
+"Available APIs","Διαθέσιμα APIs",module,Magento_Integration
 "Resource Access","Resource Access",module,Magento_Integration
 Custom,Custom,module,Magento_Integration
 All,Όλα,module,Magento_Integration
@@ -3374,7 +3374,7 @@ Sales,Πωλήσεις,module,Magento_Paypal
 "PayPal Express Checkout Token does not exist.","PayPal Express Checkout Token does not exist.",module,Magento_Paypal
 "A wrong PayPal Express Checkout Token is specified.","A wrong PayPal Express Checkout Token is specified.",module,Magento_Paypal
 "Express Checkout and Order have been canceled.","Express Checkout and Order have been canceled.",module,Magento_Paypal
-"Express Checkout has been canceled.","Express Checkout has been canceled.",module,Magento_Paypal
+"Express Checkout has been canceled.","Το Express Checkout ακυρώθηκε.",module,Magento_Paypal
 "Unable to cancel Express Checkout","Unable to cancel Express Checkout",module,Magento_Paypal
 "Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_Paypal
 "We can't place the order.","We can't place the order.",module,Magento_Paypal
@@ -3560,7 +3560,7 @@ Debit,Χρέωση,module,Magento_Paypal
 "Account-to-Account Payment, initiated by PayPal","Account-to-Account Payment, initiated by PayPal",module,Magento_Paypal
 "Auction Payment other than through eBay","Auction Payment other than through eBay",module,Magento_Paypal
 AutoSweep,AutoSweep,module,Magento_Paypal
-"Available Balance","Available Balance",module,Magento_Paypal
+"Available Balance","Διαθέσιμο Υπόλοιπο",module,Magento_Paypal
 "Balance Manager Account Bonus","Balance Manager Account Bonus",module,Magento_Paypal
 "Bonus for first ACH Use","Bonus for first ACH Use",module,Magento_Paypal
 "Buyer Credit Payment","Buyer Credit Payment",module,Magento_Paypal
@@ -3913,7 +3913,7 @@ Canceled,Ακυρώθηκε,module,Magento_Reports
 Carrier/Method,Carrier/Method,module,Magento_Reports
 "Total Sales Shipping","Total Sales Shipping",module,Magento_Reports
 "Total Shipping","Total Shipping",module,Magento_Reports
-"Order Taxes Report Grouped by Tax Rate","Order Taxes Report Grouped by Tax Rate",module,Magento_Reports
+"Order Taxes Report Grouped by Tax Rate","Αναφορά Φόρων Παραγγελίας Ομαδοποιημένων Κατά Ποσοστό Φόρου",module,Magento_Reports
 Rate,Rate,module,Magento_Reports
 "Tax Amount","Ποσό φόρου",module,Magento_Reports
 "Abandoned carts","Εγκαταλειμμένα καλάθια",module,Magento_Reports
@@ -3977,7 +3977,7 @@ Statistics,Statistics,module,Magento_Reports
 "Recent statistics have been updated.","Recent statistics have been updated.",module,Magento_Reports
 "We can't refresh recent statistics.","We can't refresh recent statistics.",module,Magento_Reports
 "The product type filter specified is incorrect.","The product type filter specified is incorrect.",module,Magento_Reports
-"Order Taxes Report Grouped by Tax Rates","Order Taxes Report Grouped by Tax Rates",module,Magento_Reports
+"Order Taxes Report Grouped by Tax Rates","Αναφορά Φόρων Παραγγελίας Ομαδοποιημένων Κατά Ποσοστό Φόρου",module,Magento_Reports
 "Total Invoiced VS Paid Report","Total Invoiced VS Paid Report",module,Magento_Reports
 "Promotion Coupons Usage Report","Promotion Coupons Usage Report",module,Magento_Reports
 Bestsellers,Κορυφαία σε πωλήσεις,module,Magento_Reports
@@ -4096,7 +4096,7 @@ Pending,Εκκρεμεί,module,Magento_Review
 "Please enter a review summary.","Please enter a review summary.",module,Magento_Review
 "Please enter a nickname.","Please enter a nickname.",module,Magento_Review
 "Please enter a review.","Please enter a review.",module,Magento_Review
-"Rating isn't Available","Rating isn't Available",module,Magento_Review
+"Rating isn't Available","Η αξιολόγηση δεν είναι διαθέσιμη",module,Magento_Review
 "Please specify a rating title for a store, or we'll just use the default value.","Please specify a rating title for a store, or we'll just use the default value.",module,Magento_Review
 "Assigned Options","Assigned Options",module,Magento_Review
 "Option Title:","Τίτλος επιλογής:",module,Magento_Review
@@ -6054,7 +6054,7 @@ Products,Προϊόντα,module,Magento_Widget
 "Add Layout Update","Add Layout Update",module,Magento_Widget
 "Remove Layout Update","Remove Layout Update",module,Magento_Widget
 "Widget Options","Widget Options",module,Magento_Widget
-Settings,Settings,module,Magento_Widget
+Settings,Ρυθμίσεις,module,Magento_Widget
 "Design Theme","Design Theme",module,Magento_Widget
 Continue,Συνέχεια,module,Magento_Widget
 "Please specify a Widget Type.","Please specify a Widget Type.",module,Magento_Widget
@@ -6272,12 +6272,12 @@ Password:,Password:,module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_Customer
 "Your %store_name password has been changed","Your %store_name password has been changed",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: password.","We have received a request to change the following information associated with your account at %store_name: password.",module,Magento_Customer
-"Checkout out as a new customer","Checkout out as a new customer",module,Magento_Customer
-"Creating an account has many benefits:","Creating an account has many benefits:",module,Magento_Customer
+"Checkout out as a new customer","Παραγγελία ως νέος πελάτης",module,Magento_Customer
+"Creating an account has many benefits:","Η δημιουργία λογαριασμού έχει πολλά οφέλη:",module,Magento_Customer
 "See order and shipping status","Δείτε την παραγγελία και την κατάσταση αποστολής",module,Magento_Customer
 "Track order history","Παρακολούθηση ιστορικού παραγγελίας",module,Magento_Customer
 "Check out faster","Ολοκλήρωση της παραγγελίας πιο γρήγορα",module,Magento_Customer
-"Checkout out using your account","Checkout out using your account",module,Magento_Customer
+"Checkout out using your account","Παραγγελία με χρήση του λογαριασμού σας",module,Magento_Customer
 "Email Address","Διεύθυνση Email",module,Magento_Customer
 "Currency Update Warnings","Currency Update Warnings",module,Magento_Directory
 Footer,Footer,module,Magento_Email
@@ -6522,7 +6522,7 @@ Weak,Αδύναμος,module,Magento_Customer
 Medium,Μέτριος,module,Magento_Customer
 Strong,Ισχυρός,module,Magento_Customer
 "Very Strong","Πολύ Ισχυρός",module,Magento_Customer
-"Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Customer
+"Guest checkout is disabled.","Η παραγγελία ως επισκέπτης είναι απενεργοποιημένη.",module,Magento_Customer
 "Field ","Πεδίο ",module,Magento_Dhl
 " is required."," απαιτείται.",module,Magento_Dhl
 "We could not detect a size.","We could not detect a size.",module,Magento_Downloadable
@@ -6702,7 +6702,7 @@ Content,Περιεχόμενο,module,Magento_Backend
 Elements,Elements,module,Magento_Backend
 Design,Design,module,Magento_Backend
 Schedule,Schedule,module,Magento_Backend
-Settings,Settings,module,Magento_Backend
+Settings,Ρυθμίσεις,module,Magento_Backend
 "All Stores","Όλα τα καταστήματα",module,Magento_Backend
 Attributes,Ιδιότητες,module,Magento_Backend
 "Other Settings","Other Settings",module,Magento_Backend
@@ -8374,7 +8374,7 @@ Image,Image,module,Magento_Swatches
 Admin,Admin,module,Magento_Swatches
 CSV,CSV,module,Magento_TaxImportExport
 "Excel XML","Excel XML",module,Magento_TaxImportExport
-Taxes,Taxes,module,Magento_Tax
+Taxes,Φόροι,module,Magento_Tax
 "Tax Section","Tax Section",module,Magento_Tax
 "Tax Classes","Tax Classes",module,Magento_Tax
 "Tax Class for Shipping","Tax Class for Shipping",module,Magento_Tax
@@ -8461,7 +8461,7 @@ Store,Κατάστημα,module,Magento_Theme
 "Skip to Content","Skip to Content",module,Magento_Theme
 Menu,Menu,module,Magento_Theme
 Account,Account,module,Magento_Theme
-Settings,Settings,module,Magento_Theme
+Settings,Ρυθμίσεις,module,Magento_Theme
 "2 columns with left bar","2 columns with left bar",module,Magento_Theme
 "2 columns with right bar","2 columns with right bar",module,Magento_Theme
 "3 columns","3 columns",module,Magento_Theme
@@ -8572,7 +8572,7 @@ Name,Όνομα,module,Magento_Variable
 "If empty, UTF-8 will be used.","If empty, UTF-8 will be used.",module,Magento_Webapi
 "Web Services Configuration","Web Services Configuration",module,Magento_Webapi
 "REST and SOAP configurations, generated WSDL file","REST and SOAP configurations, generated WSDL file",module,Magento_Webapi
-"Fixed Product Taxes","Fixed Product Taxes",module,Magento_Weee
+"Fixed Product Taxes","Σταθεροί Φόροι Προϊόντος",module,Magento_Weee
 "Enable FPT","Enable FPT",module,Magento_Weee
 "Display Prices In Product Lists","Display Prices In Product Lists",module,Magento_Weee
 "Display Prices On Product View Page","Display Prices On Product View Page",module,Magento_Weee

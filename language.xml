@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <!--
 /**
- * Copyright © 2018 gladd.gr. All rights reserved.
+ * Copyright © 2021 Gladd Web Services Srl. All rights reserved.
  */
 -->
 <language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
     <code>el_GR</code>
-    <vendor>gladd</vendor>
-    <package>el_gr</package>
+    <vendor>Gladd</vendor>
+    <package>el_GR</package>
     <use vendor="magento" package="en_us"/>
 </language>
