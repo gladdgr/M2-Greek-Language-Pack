@@ -6232,8 +6232,8 @@ edit,επεξεργασία,module,Magento_Checkout
 Next,Επόμενο,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_Checkout
 "Order Summary","Σύνοψη παραγγελίας",module,Magento_Checkout
-"Item in Cart","Προϊόν στο καλάθι",module,Magento_Checkout
-"Items in Cart","Προϊόντα στο καλάθι",module,Magento_Checkout
+"Item in Cart","Προϊόν στο καλάθι"
+"Items in Cart","Προϊόντα στο καλάθι"
 "View Details","Δείτε λεπτομέρειες",module,Magento_Checkout
 "Contact Form","Φόρμα επικοινωνίας",module,Magento_Contact
 "Name: %name","Όνομα: %name",module,Magento_Contact
@@ -8634,3 +8634,5 @@ Delete,Διαγραφή,module,Magento_Wishlist
 "Your Comment","Το σχόλιό σας"
 "Customers who bouht this item also bought","Οι πελάτες που αγοράζουν αυτό είδος αγοράζουν επίσης"
 "Enter your destination to get a shipping estimate.","Εισάγετε τον προορισμό σας, για να λάβετε μία εκτίμηση των μεταφορικών."
+"There is <a href=""%1"">1 item</a> in your cart.","Υπάρχει <a href=""%1"">1 προϊόν</a> στο καλάθι σας."
+"There are <a href=""%1"">%2 items</a> in your cart.","Υπάρχουν <a href=""%1"">%2 προϊόντα</a> στο καλάθι σας."
