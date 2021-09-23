@@ -977,8 +977,8 @@ Products,Προϊόντα,module,Magento_Catalog
 "You cleared the comparison list.","Έχετε καταργήσει την λίστα σύγκρισης.",module,Magento_Catalog
 "Something went wrong  clearing the comparison list.","Something went wrong  clearing the comparison list.",module,Magento_Catalog
 "You removed product %1 from the comparison list.","Αφαιρέσατε το προϊόν ""%1"" από την λίστα σύγκρισης.",module,Magento_Catalog
-"1 item","1 είδος",module,Magento_Catalog
-"%1 items","%1 είδη",module,Magento_Catalog
+"1 item","1 είδος"
+"%1 items","%1 είδη"
 "Invalid attribute %1","Invalid attribute %1",module,Magento_Catalog
 Grid,Πλέγμα,module,Magento_Catalog
 List,Λίστα,module,Magento_Catalog
