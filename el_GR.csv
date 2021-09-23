@@ -3105,7 +3105,7 @@ Items,Είδη,module,Magento_Multishipping
 "Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Multishipping
 "Continue to Billing Information","Continue to Billing Information",module,Magento_Multishipping
 "Back to Select Addresses","Back to Select Addresses",module,Magento_Multishipping
-"Thank you for your purchase!","Thank you for your purchase!",module,Magento_Multishipping
+"Thank you for your purchase!","Σας ευχαριστούμε για την αγορά σας",module,Magento_Multishipping
 "Thanks for your order. We'll email you order details and tracking information.","Thanks for your order. We'll email you order details and tracking information.",module,Magento_Multishipping
 "Your order numbers are: ","Your order numbers are: ",module,Magento_Multishipping
 "Your order number is: ","Your order number is: ",module,Magento_Multishipping
@@ -8630,3 +8630,6 @@ Delete,Διαγραφή,module,Magento_Wishlist
 "Forgot Your Password","Ξεχάσατε τον κωδικό σας"
 "Are you sure you would like to remove this item from the shopping cart?","Είστε βέβαιοι ότι θέλετε να καταργήσετε αυτό το είδος από το καλάθι αγορών;"
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
+"Your Comment","Το σχόλιό σας"
+"Customers who bouht this item also bought","Οι πελάτες μας τα αγοράζουν μαζί με αυτό είδος"
+"%1 An empty value is allowed as well.","%1 An empty value is allowed as well.",module,Magento_Config
