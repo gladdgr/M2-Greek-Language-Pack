@@ -8620,6 +8620,7 @@ Delete,Διαγραφή,module,Magento_Wishlist
 "Account Dashboard","Πάνελ λογαριασμού",theme,frontend/Magento/luma
 "Account Information","Πληροφορίες λογαριασμού",theme,frontend/Magento/luma
 "Address Book","Βιβλίο διευθύνσεων",theme,frontend/Magento/luma
+"%1 An empty value is allowed as well.","%1 An empty value is allowed as well.",module,Magento_Config
 
 ## Manually added translation strings
 "Edit item","Επεξεργασία είδους"
@@ -8631,5 +8632,5 @@ Delete,Διαγραφή,module,Magento_Wishlist
 "Are you sure you would like to remove this item from the shopping cart?","Είστε βέβαιοι ότι θέλετε να καταργήσετε αυτό το είδος από το καλάθι αγορών;"
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
 "Your Comment","Το σχόλιό σας"
-"Customers who bouht this item also bought","Οι πελάτες μας τα αγοράζουν μαζί με αυτό είδος"
-"%1 An empty value is allowed as well.","%1 An empty value is allowed as well.",module,Magento_Config
+"Customers who bouht this item also bought","Οι πελάτες που αγοράζουν αυτό είδος αγοράζουν επίσης"
+"Enter your destination to get a shipping estimate.","Εισάγετε τον προορισμό σας, για να λάβετε μία εκτίμηση των μεταφορικών."
