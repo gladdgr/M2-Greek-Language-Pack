@@ -977,8 +977,8 @@ Products,Προϊόντα,module,Magento_Catalog
 "You cleared the comparison list.","Έχετε καταργήσει την λίστα σύγκρισης.",module,Magento_Catalog
 "Something went wrong  clearing the comparison list.","Something went wrong  clearing the comparison list.",module,Magento_Catalog
 "You removed product %1 from the comparison list.","Αφαιρέσατε το προϊόν ""%1"" από την λίστα σύγκρισης.",module,Magento_Catalog
-"1 item","1 είδος",module,Magento_Catalog
-"%1 items","%1 είδη",module,Magento_Catalog
+"1 item","1 είδος"
+"%1 items","%1 είδη"
 "Invalid attribute %1","Invalid attribute %1",module,Magento_Catalog
 Grid,Πλέγμα,module,Magento_Catalog
 List,Λίστα,module,Magento_Catalog
@@ -3994,13 +3994,13 @@ Error,Error,module,Magento_Reports
 "Number of Wish List conversions: %1","Number of Wish List conversions: %1",module,Magento_Reports
 "Show Report For:","Show Report For:",module,Magento_Reports
 "All Websites","All Websites",module,Magento_Reports
-"Recently Viewed","Recently Viewed",module,Magento_Reports
+"Recently Viewed","Προβλήθηκαν πρόσφατα",module,Magento_Reports
 "Add to Cart","Προσθήκη στο καλάθι",module,Magento_Reports
 "In stock","Διαθέσιμο",module,Magento_Reports
 "Out of stock","Εκτός αποθέματος",module,Magento_Reports
 "Add to Wish List","Προσθήκη στη λίστα επιθυμιών",module,Magento_Reports
 "Add to Compare","Προσθήκη στη σύγκριση",module,Magento_Reports
-"Recently Compared","Recently Compared",module,Magento_Reports
+"Recently Compared","Συγκρίθηκαν πρόσφατα",module,Magento_Reports
 "Learn More","Μάθετε περισσότερα",module,Magento_Reports
 "Save Review","Save Review",module,Magento_Review
 "New Review","New Review",module,Magento_Review
@@ -4350,10 +4350,10 @@ Quantity,Ποσότητα,module,Magento_Sales
 "Are you sure you want to delete all items from shopping cart?","Are you sure you want to delete all items from shopping cart?",module,Magento_Sales
 "Clear Shopping Cart","Clear Shopping Cart",module,Magento_Sales
 "Products in Comparison List","Products in Comparison List",module,Magento_Sales
-"Recently Compared Products","Recently Compared Products",module,Magento_Sales
-"Recently Viewed Products","Recently Viewed Products",module,Magento_Sales
+"Recently Compared Products","Προϊόντα που συγκρίθηκαν πρόσφατα",module,Magento_Sales
+"Recently Viewed Products","Προϊόντα που προβλήθηκαν πρόσφατα",module,Magento_Sales
 "Last Ordered Items","Last Ordered Items",module,Magento_Sales
-"Recently Viewed","Recently Viewed",module,Magento_Sales
+"Recently Viewed","Προβλήθηκαν πρόσφατα",module,Magento_Sales
 "Wish List","Wish List",module,Magento_Sales
 "Please select a store","Παρακαλώ επιλέξτε ένα κατάστημα",module,Magento_Sales
 "Order Totals","Σύνολα παραγγελίας",module,Magento_Sales
@@ -6232,8 +6232,8 @@ edit,επεξεργασία,module,Magento_Checkout
 Next,Επόμενο,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_Checkout
 "Order Summary","Σύνοψη παραγγελίας",module,Magento_Checkout
-"Item in Cart","Προϊόν στο καλάθι",module,Magento_Checkout
-"Items in Cart","Προϊόντα στο καλάθι",module,Magento_Checkout
+"Item in Cart","Προϊόν στο καλάθι"
+"Items in Cart","Προϊόντα στο καλάθι"
 "View Details","Δείτε λεπτομέρειες",module,Magento_Checkout
 "Contact Form","Φόρμα επικοινωνίας",module,Magento_Contact
 "Name: %name","Όνομα: %name",module,Magento_Contact
@@ -8049,16 +8049,16 @@ Refunds,Refunds,module,Magento_Reports
 "Order Count","Order Count",module,Magento_Reports
 New,New,module,Magento_Reports
 Ordered,Ordered,module,Magento_Reports
-"Recently Viewed/Compared Products","Recently Viewed/Compared Products",module,Magento_Reports
+"Recently Viewed/Compared Products","Προϊόντα που Προβλήθηκαν/Συγκρίθηκαν Πρόσφατα",module,Magento_Reports
 "Show for Current","Show for Current",module,Magento_Reports
-"Default Recently Viewed Products Count","Default Recently Viewed Products Count",module,Magento_Reports
+"Default Recently Viewed Products Count","Προκαθαρισμένος αριθμός Προϊόντων που Προβληθηκαν Πρόσφατα",module,Magento_Reports
 "Default Recently Compared Products Count","Default Recently Compared Products Count",module,Magento_Reports
 Dashboard,Πίνακας ελέγχου,module,Magento_Reports
 "Year-To-Date Starts","Year-To-Date Starts",module,Magento_Reports
 "Current Month Starts","Current Month Starts",module,Magento_Reports
 "Select day of the month.","Select day of the month.",module,Magento_Reports
-"Recently Viewed Products","Recently Viewed Products",module,Magento_Reports
-"List of Products Recently Viewed by Visitor","List of Products Recently Viewed by Visitor",module,Magento_Reports
+"Recently Viewed Products","Προϊόντα που προβλήθηκαν πρόσφατα",module,Magento_Reports
+"List of Products Recently Viewed by Visitor","Λίστα με Προϊόντα που Προβλήθηκαν Πρόσφατα από τον Επισκέπτη",module,Magento_Reports
 "Number of Products to display","Number of Products to display",module,Magento_Reports
 "Viewed Products Grid Template","Viewed Products Grid Template",module,Magento_Reports
 "Viewed Products List Template","Viewed Products List Template",module,Magento_Reports
@@ -8634,3 +8634,5 @@ Delete,Διαγραφή,module,Magento_Wishlist
 "Your Comment","Το σχόλιό σας"
 "Customers who bouht this item also bought","Οι πελάτες που αγοράζουν αυτό είδος αγοράζουν επίσης"
 "Enter your destination to get a shipping estimate.","Εισάγετε τον προορισμό σας, για να λάβετε μία εκτίμηση των μεταφορικών."
+"There is <a href=""%1"">1 item</a> in your cart.","Υπάρχει <a href=""%1"">1 προϊόν</a> στο καλάθι σας."
+"There are <a href=""%1"">%2 items</a> in your cart.","Υπάρχουν <a href=""%1"">%2 προϊόντα</a> στο καλάθι σας."
